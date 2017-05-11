@@ -18,6 +18,9 @@ Increases in temperature outside of an ice age will also effect the sea level si
 
 The shape of the ocean basins can change due to tectonic movement. If the ocean basins become larger, the volume of the oceans becomes larger but the overall sea level will fall since there's the same amount of water in the ocean. Conversely, if the ocean basins get smaller, the volume of the oceans decreases and the sea level rises accordingly.
 
+In terms of global warming, the albedo effect can also cause a change in sea level: this is when light surfaces reflect light more than dark ones. However, in areas where ice sheets are melting (e.g. the Greenland ice sheet) more light is being absorbed. This means that more ice melts, causing more water to enter the sea.
+Thermal expansion, also caused by global warming, can cause eustatic sea level change. Warm water takes up a larger amount of space than cooler water. So as global temperatures rise, and sea temperature also rises, sea level will rise with it.
+
 ## Isostatic Change
 
 Isostatic sea level change is the result of an increase or decrease in the height of the land. When the height of the land increases, the sea level falls and when the height of the land decreases the sea level rises. Isostatic change is a local sea level change whereas eustatic change is a global sea level change.
